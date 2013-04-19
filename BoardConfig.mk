@@ -29,7 +29,7 @@
 TARGET_BOOTLOADER_BOARD_NAME := SGH-T879
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := SGH-T879,quincytmo
+#TARGET_OTA_ASSERT_DEVICE := SGH-T879,quincytmo
 
 # Kernel
 TARGET_KERNEL_SOURCE        := kernel/samsung/msm8660-common
