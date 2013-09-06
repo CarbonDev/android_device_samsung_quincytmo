@@ -34,7 +34,6 @@ TARGET_BOOTLOADER_BOARD_NAME := MSM8660_SURF
 # Kernel
 TARGET_KERNEL_SOURCE        := kernel/samsung/msm8660-common
 TARGET_KERNEL_CONFIG        := cyanogenmod_quincytmo_defconfig
-TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.6/bin/arm-eabi-
 
 TARGET_USERIMAGES_USE_EXT4 := true
 BOARD_BOOTIMAGE_PARTITION_SIZE := 0x00A00000
