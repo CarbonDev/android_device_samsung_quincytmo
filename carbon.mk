@@ -1,9 +1,6 @@
 $(call inherit-product, device/samsung/quincytmo/full_quincytmo.mk)
 
-# Inherit some common CM stuff.
-$(call inherit-product, vendor/carbon/config/common_gsm.mk)
-
-# Inherit some common CM stuff.
+# Inherit some common Carbon stuff.
 $(call inherit-product, vendor/carbon/config/common_phone.mk)
 
 # languages
